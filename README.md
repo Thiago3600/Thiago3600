@@ -1,6 +1,6 @@
-# Olá
+<h1>Olá<h1>
 
-Meu nome é Thiago Nunes
+<p>Meu nome é Thiago Nunes<p>
 
 Sou desenvolvedor front-end e back-end
 
