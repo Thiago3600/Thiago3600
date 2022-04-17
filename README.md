@@ -39,6 +39,9 @@ Formando em Ciencias da computação
  <a href="https://www.java.com/pt-BR/">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  </a>
+ <a href="https://pt.wikipedia.org/wiki/Microsoft_SQL_Server">
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+ </a>
  <a href="https://www.cplusplus.com/">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
  </a>
