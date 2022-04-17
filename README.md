@@ -14,7 +14,7 @@ Formando em Ciencias da computação
  
 <div>
  
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" ontarget="_blank">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
