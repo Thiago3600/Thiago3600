@@ -19,23 +19,23 @@ Formando em Ciencias da computação
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  </a>
- <a href="https://www.java.com/pt-BR/">
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ </a>
+ <a href="https://reactnative.dev/">
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </a>
  <a href="https://developer.android.com/studio">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
  </a>
- <a href="https://reactnative.dev/">
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <a href="https://www.java.com/pt-BR/">
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  </a>
  <a href="https://www.cplusplus.com/">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
  </a>
  <a href="https://www.arduino.cc/">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
- </a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </a>
 </div>
 
