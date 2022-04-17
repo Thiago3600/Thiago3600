@@ -1,10 +1,12 @@
-<h1>Olá<h1>
+ # Olá
 
 <p>Meu nome é Thiago Nunes<p>
 
 Sou desenvolvedor front-end e back-end
 
 Formando em Ciencias da computação
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago3600&hide=contribs,prs)
 
 <!---
 Thiago3600/Thiago3600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
