@@ -40,6 +40,20 @@ Formando em Ciencias da computação
  </a>
 </div>
 
+ 
+ 
+<div>
+ <h3>Redes sociais:</h3>
+ <a href="https://www.linkedin.com/in/thiago-nunes-sousa-32a101160/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/thiago.nunes.2718/">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
+</div>
+
+
+
 <!---
 Thiago3600/Thiago3600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
