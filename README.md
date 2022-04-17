@@ -13,6 +13,7 @@ Formando em Ciencias da computação
 
  
 <div>
+ <h3>Tecnologias:</h3>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  </a>
