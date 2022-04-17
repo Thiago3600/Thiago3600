@@ -5,13 +5,20 @@
 Sou desenvolvedor front-end e back-end
 
 Formando em Ciencias da computação
-  
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago3600&count_private=true)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago3600&layout=compact)](https://github.com/Thiago3600/github-readme-stats)
+<div>
+ <a href="https://github.com/Thiago3600/github-readme-stats">
+   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Thiago3600&count_private=true)" />
+ </a>
+ <br></br>
+ <a href="https://github.com/Thiago3600/github-readme-stats">
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago3600&layout=compact" />
+ </a>
+</div
+
 
  
+
 <div>
  <h3>Tecnologias:</h3>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
